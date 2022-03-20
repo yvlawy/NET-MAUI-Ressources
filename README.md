@@ -60,15 +60,15 @@ https://github.com/yvlawy/Maui-Mvvm-HelloWorld
 
 ## 3. MAUI Tutorials
 
-- Get Started with Shell Using .NET MAUI Preview 12 /SyncFusion<br>
+- Get Started with Shell Using .NET MAUI Preview 12, SyncFusion<br>
 February 3, 2022<br>
 https://www.syncfusion.com/blogs/post/get-started-with-shell-using-net-maui-preview-12.aspx
 
-- The All-New .NET MAUI Tab View Control Is Here / SyncFusion<br>
+- The All-New .NET MAUI Tab View Control Is Here, SyncFusion<br>
 October 14, 2021<br>
 https://www.syncfusion.com/blogs/post/the-all-new-net-maui-tab-view-control-is-here.aspx
 
-- Stock Market App for .NET Multi-platform App UI (.NET MAUI) / DevExpress<br>
+- Stock Market App for .NET Multi-platform App UI (.NET MAUI), DevExpress<br>
 15 November 2021<br>
 https://community.devexpress.com/blogs/mobile/archive/2021/11/15/stock-market-app-for-net-multi-platform-app-ui-net-maui-part-1.aspx
 
@@ -91,3 +91,5 @@ https://github.com/CommunityToolkit/dotnet
 - Announcing .NET Community Toolkit v8.0.0 Preview 1<br>
 https://devblogs.microsoft.com/ifdef-windows/announcing-net-community-toolkit-v8-0-0-preview-1/
 
+- Free icons
+https://materialdesignicons.com/

@@ -1,2 +1,2 @@
-# NET-MAUI-Ressources
+# Some .NET MAUI Ressources
 Some interesting .NET MAUI ressources

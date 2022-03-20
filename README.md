@@ -35,21 +35,21 @@ https://github.com/microsoft/dotnet-podcasts
 - MAUI TechiesMoneyExchange application:<br>
 https://github.com/jesulink2514/TechiesMoneyExchange
 
-- MAUI Small MAUI application:<br>
-Use nav Shell.<br>
-https://ballardchalmers.com/2022/02/09/net-maui-deep-dive-part-two-building-our-maui-app/<br>
-https://github.com/CliffAgius/.NET-MAUI---Aircraft-Facts-App
-
 - MAUI BirdAtlas application:<br>
 Last updated on 17 Aug2021<br>
 https://github.com/AppCreativity/BirdAtlas/tree/master/frontend_maui
 
-- MAUI application code sample using the FlyoutPage Control<br>
-https://github.com/martinlenart/ADOPXF_L5_FlyoutPage
+- MAUI sample application<br>
+in MVVM way. Use Navigation, Shell<br>
+See the attached complete article<br>
+https://github.com/CliffAgius/.NET-MAUI---Aircraft-Facts-App
 
 - MAUI chat<br>
 A simple chat app using SignalR, MAUI and Blazor<br>
 https://github.com/matt-goldman/maui-chat
+
+- MAUI application basic code sample using the FlyoutPage Control<br>
+https://github.com/martinlenart/ADOPXF_L5_FlyoutPage
 
 - Syncfusion MAUI demos:<br>
 https://github.com/syncfusion/maui-demos<br>
@@ -71,6 +71,11 @@ https://www.syncfusion.com/blogs/post/the-all-new-net-maui-tab-view-control-is-h
 - Stock Market App for .NET Multi-platform App UI (.NET MAUI) / DevExpress<br>
 15 November 2021<br>
 https://community.devexpress.com/blogs/mobile/archive/2021/11/15/stock-market-app-for-net-multi-platform-app-ui-net-maui-part-1.aspx
+
+- .NET MAUI DEEP-DIVE PART TWO – BUILDING OUR MAUI APP<br>
+Very detailed article, Use navigation, Shell.<br>
+https://ballardchalmers.com/2022/02/09/net-maui-deep-dive-part-two-building-our-maui-app/<br>
+https://github.com/CliffAgius/.NET-MAUI---Aircraft-Facts-App
 
 ## 4. Others MAUI ressources
 

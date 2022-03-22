@@ -19,7 +19,6 @@ https://www.nuget.org/packages/CommunityToolkit.Maui/
 https://devblogs.microsoft.com/dotnet/introducing-the-net-maui-community-toolkit-preview/
 
 ## 2. MAUI Code samples
-
 Here is the list of some MAUI applications code sample found on github.
 
 - MAUI HackerNews application:<br>
@@ -59,9 +58,10 @@ https://github.com/syncfusion-content/maui-docs
 https://github.com/yvlawy/Maui-Mvvm-HelloWorld
 
 ## 3. MAUI Tutorials
+Here are some interesting .NET MAUI tutorials. some of these have a code source repository (github, often).  
 
 - Creating a Menu Bar UI with .NET MAUI Preview 14, SyncFusion<br>
-code-behond, not MVVM<br>
+code-behind, not MVVM<br>
 March 21, 2022<br>
 https://www.syncfusion.com/blogs/post/creating-a-menu-bar-ui-with-net-maui-preview-14.aspx<br>
 Source code<br>

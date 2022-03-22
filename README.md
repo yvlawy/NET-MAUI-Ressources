@@ -60,6 +60,13 @@ https://github.com/yvlawy/Maui-Mvvm-HelloWorld
 
 ## 3. MAUI Tutorials
 
+- Creating a Menu Bar UI with .NET MAUI Preview 14, SyncFusion<br>
+code-behond, not MVVM<br>
+March 21, 2022<br>
+https://www.syncfusion.com/blogs/post/creating-a-menu-bar-ui-with-net-maui-preview-14.aspx<br>
+Source code<br>
+https://github.com/SyncfusionExamples/maui-general-samples/tree/main/MenuBarUIApplication
+
 - Get Started with Shell Using .NET MAUI Preview 12, SyncFusion<br>
 February 3, 2022<br>
 https://www.syncfusion.com/blogs/post/get-started-with-shell-using-net-maui-preview-12.aspx

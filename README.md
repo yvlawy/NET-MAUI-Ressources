@@ -85,7 +85,18 @@ https://ballardchalmers.com/2022/02/09/net-maui-deep-dive-part-two-building-our-
 Source code<br>
 https://github.com/CliffAgius/.NET-MAUI---Aircraft-Facts-App
 
-## 4. Others MAUI ressources
+## 4. .NET MAUI components editors
+
+- SyncFusion MAUI controls<br>
+https://www.syncfusion.com/maui-controls
+
+- DevExpress .NET MAUI Controls<br>
+https://www.devexpress.com/maui/
+
+- Telerik UI for .NET MAUI<br>
+https://www.telerik.com/maui-ui
+
+## 5. Others MAUI ressources
 
 - An interesting page on MAUI with lot of ressources<br>
 https://github.com/MahmudX/awesome-maui

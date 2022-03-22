@@ -82,6 +82,7 @@ https://community.devexpress.com/blogs/mobile/archive/2021/11/15/stock-market-ap
 - .NET MAUI DEEP-DIVE PART TWO – BUILDING OUR MAUI APP<br>
 Very detailed article, Use navigation, Shell.<br>
 https://ballardchalmers.com/2022/02/09/net-maui-deep-dive-part-two-building-our-maui-app/<br>
+Source code<br>
 https://github.com/CliffAgius/.NET-MAUI---Aircraft-Facts-App
 
 ## 4. Others MAUI ressources
